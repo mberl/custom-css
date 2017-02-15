@@ -1,8 +1,8 @@
 /* Picture effect - Grow & darken */
 
 .picture-effect-grow-darken img:hover {
- 	height: 300px;
-  	width: 300px;
+ 	height: 120%;
+  	width: 120%;
         -webkit-filter: brightness(100%);
         -moz-filter: brightness(100%);
         -ms-filter: brightness(100%);
